@@ -1,0 +1,17 @@
+{
+    "botToken": "MTQ4MDY1MjI1OTIyOTcwMDI2OQ.GT3xFI.gK5A2_DpJ3x8MWe1rKtZZ6h7RPZRf2Qec843fQ",
+    "guildId": "1480325535090606264",
+    "adminRoleId": "1480325893967843348",
+    "deleteRoleId": "1480325893967843348",
+    "customerRoleId": "1480325980022243492",
+    "adminHwidResetRoleId": "1480325893967843348",
+    "adminDiscordResetRoleId": "1480325893967843348",
+    "logChannelId": "1480948651647045713",
+    "redeemChannelId": "1480947156813611122",
+    "apiPort": 3000,
+    "voiceChannels": {
+        "customers": "",
+        "activeLicenses": "",
+        "activeUsers": ""
+    }
+}
